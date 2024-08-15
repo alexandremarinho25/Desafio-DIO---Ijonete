@@ -1,0 +1,5 @@
+body#spider-man-01-hovered::before,
+body#spider-man-02-hovered::before,
+body#spider-man-03-hovered::before {
+  transition: background-image 0.3s ease-in-out;
+}
